@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+body{
+ background-image: url("bg.jpg");
+}
+
+#main {
+    width: 450px;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 49px;
+    background: #e14599d4;
+    border: 1px solid #2c2d2c;
+}
+label{
+
+}
+input {
+    width: 100%;
+    padding: 10px;
+    body: ;
+
+    margin: 10px 10px;
+}
+   
+
+
+input[type="text"]{
+border-radius: 8px solid #fff;
+
+}
+
+input[type="email"]{
+border-radius: 8px solid #fff;
+}
+
+input[type="password"]{
+border-radius: 8px solid #fff;
+}
+
+input[type="submit"]{
+border-radius: 8px solid #fff;
+}
+
+
